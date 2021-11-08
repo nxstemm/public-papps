@@ -6,3 +6,9 @@ Screen1 As screen:
         Y: =374
         ZIndex: =1
 
+    Label2 As label:
+        Text: ="Hello again!"
+        X: =600
+        Y: =430
+        ZIndex: =2
+

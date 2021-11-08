@@ -3,10 +3,11 @@
   "ControlUniqueIds": {
     "App": 1,
     "Label1": 4,
+    "Label2": 5,
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "11/08/2021 09:56:29",
+  "HeaderLastSavedDateTimeUTC": "11/08/2021 09:57:23",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -21,6 +22,7 @@
   "PublishOrderIndices": {
     "App": 0,
     "Label1": 0,
+    "Label2": 0,
     "Screen1": 0
   },
   "ResourcesJsonIndices": {},
