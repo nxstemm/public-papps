@@ -48,7 +48,7 @@
       "keeprecentscreensloaded": false,
       "longlivingcache": false,
       "nativecdsexperimental": true,
-      "optimizedforteamsmeeting": true,
+      "optimizedforteamsmeeting": false,
       "parallelcodegen": false,
       "projectionmapping": true,
       "reactformulabar": false,
